@@ -1,0 +1,4 @@
+unzip serveur_application.zip
+cd serveur_application
+npm install
+npm start
